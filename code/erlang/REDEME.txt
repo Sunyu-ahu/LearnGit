@@ -1,0 +1,4 @@
+% 
+% 库函数
+% lists:map
+% lists:sum
